@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EventDemo
+namespace EventDemoBeforeAfter
 {
     internal class StudentAgeChangingEventArgs : EventArgs
     {

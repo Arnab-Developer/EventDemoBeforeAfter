@@ -1,4 +1,4 @@
-﻿using EventDemo;
+﻿using EventDemoBeforeAfter;
 using System;
 
 Student s1 = new() { Name = "jon", Age = 10 };

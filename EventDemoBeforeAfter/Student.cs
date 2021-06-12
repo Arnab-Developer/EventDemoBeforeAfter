@@ -1,4 +1,4 @@
-﻿namespace EventDemo
+﻿namespace EventDemoBeforeAfter
 {
     internal class Student
     {
